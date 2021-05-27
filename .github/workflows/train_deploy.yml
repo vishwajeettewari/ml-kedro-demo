@@ -33,11 +33,11 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install  iris-0.1-py3-none-any.whl
+        pip install spaceflights-0.1-py3-none-any.whl
         
     - name: Running pipelines 
       run: |
-        python -m iris
+        python -m spaceflights
        
 #     # Submit a training run to the Azure Machine Learning
 #     - name: Submit training run
