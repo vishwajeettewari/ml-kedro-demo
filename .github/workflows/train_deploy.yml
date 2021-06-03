@@ -34,10 +34,13 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install spaceflights-0.1-py3-none-any.whl
+        pip install kedro
         
     - name: Running pipelines 
       run: |
-        python -m spaceflights
+        cd spaceflights 
+        kedro run
+        
        
 #     # Submit a training run to the Azure Machine Learning
 #     - name: Submit training run
