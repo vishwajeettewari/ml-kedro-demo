@@ -1,0 +1,6 @@
+estimator_kwargs:
+  entry_point: src/spaceflights/azureml_entry_point.py  # you will create this file later
+  role: Contributor  # put the name of the role you've created earlier
+  compute_target: Standard_DS2_v2
+  instance_count: 1
+  output_path: ${blob.output_path}
