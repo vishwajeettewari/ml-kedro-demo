@@ -38,9 +38,9 @@ jobs:
         
     - name: Running pipelines 
       run: |
-        ls -l
+        ls
         cd sf
-        kedro run
+        ls
 
         
        
