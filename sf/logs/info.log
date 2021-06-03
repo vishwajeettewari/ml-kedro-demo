@@ -1,0 +1,6 @@
+2021-05-28 11:58:37,752 - root - INFO - ** Kedro project spaceflights
+2021-05-28 11:58:39,606 - kedro.framework.session.store - INFO - `save()` not implemented for `BaseSessionStore`. Skipping the step.
+2021-05-28 12:01:43,003 - root - INFO - ** Kedro project spaceflights
+2021-05-28 12:01:44,244 - kedro.framework.session.store - INFO - `save()` not implemented for `BaseSessionStore`. Skipping the step.
+2021-05-28 12:31:51,270 - root - INFO - ** Kedro project spaceflights
+2021-05-28 12:32:02,657 - kedro.framework.session.store - INFO - `save()` not implemented for `BaseSessionStore`. Skipping the step.
