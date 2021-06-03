@@ -1,3 +1,0 @@
-blob:
-  train_path: blob://azureml-blobstore-d6307003-db4c-47a2-b404-f57f3fec992c/train
-  output_path: blob://azureml-blobstore-d6307003-db4c-47a2-b404-f57f3fec992c/output

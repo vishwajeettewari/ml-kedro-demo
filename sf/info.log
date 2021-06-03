@@ -1,6 +1,0 @@
-2021-05-28 11:58:37,714 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
-2021-05-28 11:58:37,735 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/kedro-hr-attr/sf/spaceflights
-2021-05-28 12:01:42,979 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
-2021-05-28 12:01:42,991 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/kedro-hr-attr/sf/spaceflights
-2021-05-28 12:31:51,239 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
-2021-05-28 12:31:51,254 - kedro.framework.session.session - WARNING - Unable to git describe /Users/vishwajeet/Desktop/kedro-hr-attr/sf/spaceflights
