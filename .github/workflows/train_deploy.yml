@@ -38,6 +38,7 @@ jobs:
         
     - name: Running pipelines 
       run: |
+        cd sf
         kedro run
 
         
