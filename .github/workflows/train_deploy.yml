@@ -38,7 +38,7 @@ jobs:
         
     - name: Running pipelines 
       run: |
-        cd spaceflights 
+
         kedro run
         
        
