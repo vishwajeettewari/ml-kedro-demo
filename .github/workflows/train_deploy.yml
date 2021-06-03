@@ -38,8 +38,8 @@ jobs:
         
     - name: Running pipelines 
       run: |
+        ls
 
-        kedro run
         
        
 #     # Submit a training run to the Azure Machine Learning
